@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>YouTube</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-black text-white p-6">
+
+<a href="index.html" class="bg-red-600 px-4 py-2 rounded">⬅ Back</a>
+
+<h1 class="text-2xl font-bold mt-4">YOUTUBE</h1>
+
+<p class="mt-4">Yaha apna YouTube earning content daalo...</p>
+
+</body>
+</html>
