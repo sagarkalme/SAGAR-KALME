@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Twitter Se Paise Kaise Kamaye 2026 | Earn With Sagar</title>
+
+<meta name="description" content="Twitter (X) se paise kaise kamaye? Earn With Sagar par sikhe Twitter earning, viral tweets, monetization aur online earning tips India ke liye.">
+
+<meta name="keywords" content="twitter se paise kaise kamaye, x earning india, twitter monetization india, earn from twitter, viral tweets kaise kare, twitter earning tips hindi">
+
+<meta name="author" content="Sagar Kalme">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Twitter Se Paise Kaise Kamaye 2026">
+<meta property="og:description" content="Twitter earning tips, viral tweets aur monetization ka full guide.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://yourwebsite.com/twitter.html">
+<meta property="og:image" content="https://abs.twimg.com/icons/apple-touch-icon-192x192.png">
+
+<!-- Twitter Meta -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Twitter Earning Guide">
+<meta name="twitter:description" content="Twitter (X) se paise kamane ke best tarike.">
+<meta name="twitter:image" content="https://abs.twimg.com/icons/apple-touch-icon-192x192.png">
+
+<link rel="canonical" href="https://sagarkalme.github.io/SAGAR-KALME/">
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+<style>
+body {
+  background: url('https://tse1.mm.bing.net/th/id/OIP.wx8FYjXb7vVYTQmpaDhe_AHaEJ?pid=ImgDet&w=474&h=265&rs=1&o=7&rm=3') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.overlay {
+  background: rgba(0,0,0,0.7);
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+}
+</style>
+
+</head>
+
+<body class="text-white">
+
+<div class="overlay">
+
+<!-- Header -->
+<div class="p-4 bg-black/70 flex justify-between items-center">
+  <a href="index.html" class="bg-blue-500 px-4 py-2 rounded">⬅ Back</a>
+  <h1 class="font-bold text-blue-400">TWITTER (X)</h1>
+</div>
+
+<!-- Main Content -->
+<div class="max-w-3xl mx-auto px-4 py-8">
+
+  <h1 class="text-3xl font-bold text-blue-400 mb-4">Twitter Se Paise Kaise Kamaye 💰</h1>
+
+  <p class="text-gray-300 mb-6">
+    Twitter (X) ek fast growing platform hai jahan viral tweets se aap earning kar sakte ho.
+    Yaha content speed aur engagement par depend karta hai.
+  </p>
+
+  <h2 class="text-xl font-bold text-yellow-400 mt-6">🎯 1. Basic Earning</h2>
+  <p class="mt-2 text-gray-300">
+    Twitter ads revenue aur creator monetization ke through paise deta hai.
+  </p>
+
+  <ul class="mt-3 space-y-1 text-gray-300">
+    <li>🔹 Viral tweet = High reach</li>
+    <li>🔹 Engagement = Income chance</li>
+    <li>🔹 Followers = Power 💪</li>
+  </ul>
+
+  <h2 class="text-xl font-bold text-green-400 mt-6">🔥 2. Example</h2>
+  <p class="mt-2 text-gray-300">
+    1 viral tweet = lakhon views 😲
+  </p>
+
+  <h2 class="text-xl font-bold text-blue-400 mt-6">🚀 3. Growth Topics</h2>
+  <ul class="mt-2 text-gray-300 space-y-1">
+    <li>💻 Tech</li>
+    <li>💰 Earning Tips</li>
+    <li>🔥 Trending News</li>
+  </ul>
+
+  <h2 class="text-xl font-bold text-pink-400 mt-6">⚡ 4. Income Sources</h2>
+  <ul class="mt-2 text-gray-300 space-y-1">
+    <li>✔ Ads Revenue</li>
+    <li>✔ Sponsorship</li>
+    <li>✔ Affiliate</li>
+    <li>✔ Paid Promotion</li>
+  </ul>
+
+  <h2 class="text-xl font-bold text-red-400 mt-6">⚠️ Requirement</h2>
+  <p class="mt-2 text-gray-300">
+    High engagement + active audience
+  </p>
+
+  <h2 class="text-xl font-bold text-green-400 mt-6">💡 Reality</h2>
+  <ul class="mt-2 text-gray-300 space-y-1">
+    <li>👉 Start: ₹0</li>
+    <li>👉 Viral hone par growth fast 🚀</li>
+    <li>👉 Consistency = Success 💯</li>
+  </ul>
+
+  <div class="mt-8 text-center">
+    <p class="text-yellow-400 font-bold text-lg bg-blue-500 rounded-full px-4">
+      🚀 Roz tweet karo aur viral ho jao!
+    </p>
+  </div>
+
+  <h1 class="font-bold text-blue-400 flex justify-center pt-10 text-3xl">
+    Thank's For visite
+  </h1>
+
+</div>
+
+</div>
+
+</body>
+</html>
