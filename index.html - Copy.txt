@@ -201,7 +201,7 @@ Join Now →
 <!-- FOOTER -->
 
 <footer
-class="bg-[url('question.jpg')] bg-cover bg-center bg-fixed bg-no-repeat">
+class="bg-[url('question.png')] bg-cover bg-center bg-fixed bg-no-repeat">
 
 <div class="p-6">
 
