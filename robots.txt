@@ -1,0 +1,5 @@
+txt id="6s8wlo"
+User-agent: *
+Allow: /
+
+Sitemap: https://sagarkalme.github.io/SAGAR-KALME/sitemap.xml
